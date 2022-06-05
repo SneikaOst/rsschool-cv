@@ -55,13 +55,13 @@ if (randomNumber < 20) {
 * Checking and moderation of user ads for violations of the law or the rules of the Site
 
 **_2016-2017. Tourism Manager at the travel company "Foritour"_**
-*Organization of tours in Primorsky Krai
-*Working with the company's social networks
+* Organization of tours in Primorsky Krai
+* Working with the company's social networks
 
 
 ## Education
 **VSUES (Vladivostok State University of Economics and Service)**
-*Tourism manager
+* Tourism manager
 
 **Udemy**
 * [WEB-developer](https://www.udemy.com/course/webdeveloper/)
