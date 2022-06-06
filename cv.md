@@ -6,14 +6,6 @@
 * E-mail: fantommyfa@mail.ru
 * GitHub: [SneikaOst](https://github.com/SneikaOst)
 
-# Alexandra Ostapenko
-
-## Contacts
-* Location: Ekaterinburg, Russia
-* Phone: +7 (902) 482-43-28
-* E-mail: fantommyfa@mail.ru
-* GitHub: [SneikaOst](https://github.com/SneikaOst)
-
 ## About
 I am 27 years old. I have been working as a content manager for the last 3 years. I liked working with websites through various CMS - Bitrix, Wordpress, CS-cart, Opencart, but I wanted to learn how to create websites myself. My goal is to become a good frontend developer.
 
