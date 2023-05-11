@@ -34,6 +34,7 @@ I am 27 years old. I have been working as a content manager for the last 5 years
 * Writing guides on working with content on company websites for content managers
 * Assistance in price automation using a parser
 * Teamwork with the designer, analysts, programmers and other specialists of the Development Department of Globaldrive
+* Work in the CRM Bitrix24 by tasks in scrums and kanban
 
 **_2017-2018. Content Quality Specialist (Moderator) in [LLC Farpost](https://www.farpost.ru/)._**
 * Checking and moderation of user ads for violations of the law or the rules of the Site
