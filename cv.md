@@ -24,15 +24,7 @@ I am 27 years old. I have been working as a content manager for the last 3 years
 ## Code example
 
 ```
-let randomNumber = Math.floor(Math.random() * 100);
 
-if (randomNumber < 20) {
-    console.log('randomNumber меньше 20');
-} else if (randomNumber > 50) {
-    console.log('randomNumber больше 50');
-} else {
-    console.log('randomNumber больше 20, и меньше 50')
-};
 ```
 
 ## Work Experience
@@ -47,8 +39,8 @@ if (randomNumber < 20) {
 * Checking and moderation of user ads for violations of the law or the rules of the Site
 
 **_2016-2017. Tourism Manager at the travel company "Foritour"_**
-* Organization of tours in Primorsky Krai
-* Working with the company's social networks
+* Organization of tours
+* Working with the company's social media and site
 
 
 ## Education
@@ -57,6 +49,9 @@ if (randomNumber < 20) {
 
 **Udemy**
 * [WEB-developer](https://www.udemy.com/course/webdeveloper/)
+
+**Innopolis**
+* Frontend-development (15.07. - 15.11.22)
 
 ## Languages
 * Russian - native
