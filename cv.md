@@ -30,7 +30,7 @@ I am 27 years old. I have been working as a content manager for the last 5 years
 ## Work Experience
 **_2018-Present day. Senior Content Manager in [Globaldrive](https://globaldrive.ru/)_**
 * Content management on company websites through various CMS (Wordpress, Bitrix, CS-cart, OpenCart etc.)
-* Corporate website management
+* Content management on the corporate portal (database, regulations, training, etc.)  
 * Writing guides on working with content on company websites for content managers
 * Assistance in price automation using a parser
 * Teamwork with the designer, analysts, programmers and other specialists of the Development Department of Globaldrive
