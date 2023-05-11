@@ -51,7 +51,7 @@ I am 27 years old. I have been working as a content manager for the last 3 years
 * [WEB-developer](https://www.udemy.com/course/webdeveloper/)
 
 **Innopolis**
-* Frontend-development (15.07. - 15.11.22)
+* "Fundamentals of Frontend development" (15.07. - 15.11.22)
 
 ## Languages
 * Russian - native
