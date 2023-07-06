@@ -7,7 +7,7 @@
 * GitHub: [SneikaOst](https://github.com/SneikaOst)
 
 ## About
-I am 27 years old. I have been working as a content manager for the last 5 years. I liked working with websites through various CMS - Bitrix, Wordpress, CS-cart, Opencart, but I wanted to learn how to create websites myself. My goal is to become a good frontend developer.
+I am 28 years old. I have been working as a content manager for the last 5 years. I liked working with websites through various CMS - Bitrix, Wordpress, CS-cart, Opencart, but I wanted to learn how to create websites myself. My goal is to become a good frontend developer.
 
 **My Strengths:**
 * Mindfulness
@@ -53,6 +53,17 @@ I am 27 years old. I have been working as a content manager for the last 5 years
 
 **Innopolis**
 * "Fundamentals of Frontend development" (15.07. - 15.11.22)
+
+**HTML Academy**
+"Frontend developer" (11.04.23 - 04.13.25):
+* HTML and CSS. Professional website makeup
+* HTML and CSS. Adaptive layout and automation
+* JavaScript. Professional development of web interfaces
+* CMS layout
+* React components
+* CSS animations
+* SVG animations
+* Algorithms
 
 ## Languages
 * Russian - native
