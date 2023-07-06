@@ -10,7 +10,7 @@
 I am 28 years old. I have been working as a content manager for the last 5 years. I liked working with websites through various CMS - Bitrix, Wordpress, CS-cart, Opencart, but I wanted to learn how to create websites myself. My goal is to become a good frontend developer.
 
 **My Strengths:**
-* Mindfulness
+* Attentiveness
 * Responsibility
 * Assiduity
 * Ability to work in a team (listen and hear other people, colleagues, customers)
