@@ -16,9 +16,16 @@ I am 28 years old. I have been working as a content manager for the last 5 years
 * Ability to work in a team (listen and hear other people, colleagues, customers)
 
 ## Skils
-* HTML5, CSS3, SASS
-* JavaScript (Basic)
+* HTML5, CSS3
+* SASS/Less
+* JavaScript
+* React (components)
+* Gulp
 * Git, GitHub
+* CMS layout
+* CSS animations
+* SVG animations
+* Algorithms
 * Adobe Photoshop, CorelDraw, Figma
 
 ## Code example
