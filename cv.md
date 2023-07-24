@@ -20,12 +20,14 @@ I am 28 years old. I have been working as a content manager for the last 5 years
 * SASS/Less
 * JavaScript
 * React (components)
+* Adaptive and responsive layout
 * Gulp
 * Git, GitHub
 * CMS layout
 * CSS animations
 * SVG animations
 * Algorithms
+* Bootstrap
 * Adobe Photoshop, CorelDraw, Figma
 
 ## Code example
